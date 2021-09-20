@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages for Steve
 
 # This is an image
-![The Image](/networks.jpg)
+![The Image](/includes/networks.jpg)
 
 You can use the [editor on GitHub](https://github.com/stevelademann/stevelademann/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
